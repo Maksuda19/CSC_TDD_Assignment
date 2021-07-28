@@ -55,10 +55,10 @@ public class UtilsNumbers {
 	}	
 	
 	/**
-	 * getNumberType: Integration of the 3 functions to get the final type of the number
+	 * getNumberType: Integration of the three functions to get the final type of the number
 	 * 
 	 * @param i: input integer number to be checked
-	 * @return EVEN if number is even, ODD if number is Odd, 
+	 * @return EVEN if number is even, ODD if number is Odd,
 	 * 		   EVENPRIME if number is even and prime, ODDPRIME if number is odd and prime
 	 * 
 	 */
